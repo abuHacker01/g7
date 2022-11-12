@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+.bla_1 {
+    width: 100%;
+    background-color: #FFF5EB;
+    margin-top: 10%;
+    height: 230px;
+    padding-left: 10%;
+    display: flex;
+}
+
+.lorem_2 {
+    display: flex;
+    margin-top: 5%;
+    flex-direction: column;
+}
+
+.lorem_2__p {
+    font-weight: 500;
+    font-size: 10px;
+}
+
+.lorem_2__h1 {
+    width: 780px;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.mony {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    flex-direction: column;
+}
+
+.mony_p {
+    text-transform: uppercase;
+    margin-left: 16%;
+}
+
+.mony_h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 48px;
+}
+
+.header_1__columns {
+    display: flex;
+    flex-direction: column;
+}
+
+.come_sell {
+    margin-right: 5%;
+    width: 132%;
+    margin-left: 28%;
+    margin-top: 5%;
+}
+
+.strelka__5 {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    width: 60px;
+    font-size: 30px;
+}
+
+.header_section__go___4 {
+    margin-left: 27%;
+    margin-top: 2%;
+    font-size: 30px;
+    display: flex;
+}
+
+.clozes_five {
+    margin-left: 28%;
+    display: flex;
+}
+
+.tuda {
+    width: 40px;
+    height: 40px;
+    margin-top: 30%;
+}
+
+.clothes_for {
+    display: flex;
+}
+
+.clothes_for__second {
+    display: flex;
+}
+
+.only_header {
+    display: flex;
+}
+
+.p_from {
+    margin-left: 20%;
+}
+
+.mony_2 {
+    margin-left: 30%;
+}
+
+.mini_header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ottth {
+    margin-top: 15%;
+    height: 55px;
+}
+
+.header_grean {
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.chanel {
+    display: flex;
+    font-weight: 700;
+    font-size: 14px;
+    justify-content: center;
+}
+
+.mini_header {
+    margin-top: 6%;
+}
+
+.header____6__p {
+    display: flex;
+    margin-top: 5%;
+    font-size: 10px;
+    font-weight: 500;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.header____6__h1 {
+    display: flex;
+    font-size: 48px;
+    font-weight: 700;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.clozes_five__2 {
+    display: flex;
+    margin-left: 5%;
+}
+
+.tuda_2 {
+    margin-top: 70%;
+    width: 40px;
+    height: 40px;
+}
