@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header__1 {
+    margin-top: 5%;
+    margin-left: 8%;
+    display: flex;
+}
+
+.header__section {
+    margin-left: 3%;
+    margin-top: 6%;
+}
+
+.header_section__p {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.header_section__g1 {
+    width: 614.9px;
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.lorem__1 {
+    width: 510.9px;
+    margin-bottom: 25px;
+}
+
+.header_section__go {
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+
+.header_section__go___3 {
+    display: flex;
+    align-items: center;
+    margin-left: 0%;
+}
+
+.strelka_1 {
+    width: 24px;
+    margin-left: 10px;
+    margin-top: 3px;
+    height: 15px;
+}
+
+.madel1 {
+    margin-left: -1%;
+    width: auto;
+    height: auto;
+}
+
+.second {
+    margin-top: 80px;
+}
+
+.thri {
+    margin-left: 5%;
+    display: flex;
+    gap: 3%;
+    margin-top: 40px;
+}
+
+.first {
+    border: 2px solid black;
+    Width: 328px;
+    Height: 516px;
+}
+
+.first_h1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.dec {
+    display: flex;
+    justify-content: center;
+}
+
+.first_h2 {
+    margin-top: 60px;
+    margin-bottom: 18px;
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.clothes1 {
+    width: 328px;
+    Height: 444px;
+}
+
+.first_p {
+    display: flex;
+    justify-content: center;
+    Width: 280px;
+    margin-top: 24px;
+}
+
+.kdjhf {
+    margin-bottom: 120px;
+}
+
+.header_section__go {
+    justify-content: center;
+}
+
+.second {
+    width: 288px;
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 516px;
+}
+
+.like {
+    margin-top: 0px;
+}
+
+.second_h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.lasd {
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+
+.clothes2 {
+    margin-top: 48px;
+    Height: 355px;
+}
+
+.clothes3 {
+    margin-top: 45px;
+    width: 230px;
+    height: 388px;
+}
+
+.header__2 {
+    margin-top: 10%;
+    margin-left: 10%;
+    gap: 15%;
+    display: flex;
+}
+
+.header_2__h2 {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.header_2__h1 {
+    font-weight: 700;
+    font-size: 48px;
+    width: 0px;
+}
+
+.header_2__h4 {
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.header_2__1___flex {
+    display: flex;
+}
+
+.strelka {
+    margin-top: 4px;
+    margin-left: 20px;
+    align-items: center;
+    height: 12px;
+    width: 24px;
+}

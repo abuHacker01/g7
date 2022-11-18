@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+.bla_1 {
+    width: 100%;
+    background-color: #FFF5EB;
+    margin-top: 10%;
+    height: 230px;
+    padding-left: 10%;
+    display: flex;
+}
+
+.lorem_2 {
+    display: flex;
+    margin-top: 5%;
+    flex-direction: column;
+}
+
+.lorem_2__p {
+    font-weight: 500;
+    font-size: 10px;
+}
+
+.lorem_2__h1 {
+    width: 780px;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.mony {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    margin-left: 35%;
+    flex-direction: column;
+}
+
+.mony_p {
+    text-transform: uppercase;
+    margin-left: 16%;
+}
+
+.mony_h1 {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 48px;
+}

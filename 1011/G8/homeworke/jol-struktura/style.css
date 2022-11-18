@@ -1,0 +1,63 @@
+.the_biggest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    height: 900px;
+}
+
+.Header {
+    background-color: yellow;
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30%;
+}
+
+.fr {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.nav {
+    background-color: yellow;
+    width: 25%;
+    height: 65%;
+}
+
+.article {
+    width: 70%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.ads {
+    width: 25.5%;
+    background-color: yellow;
+}
+
+.qe {
+    width: 75%;
+    height: 100%;
+}
+
+.ds {
+    display: flex;
+}
+
+.pod_for {
+    margin-bottom: 30px;
+    margin-left: 30px;
+    gap: 30px;
+    display: flex;
+    width: 100%;
+    height: 40%;
+}
+
+.footer {
+    margin-left: 30px;
+    height: 20%;
+    width: 98%;
+    background-color: yellow;
+}

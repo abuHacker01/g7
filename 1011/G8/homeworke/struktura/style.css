@@ -1,0 +1,73 @@
+.btn {
+    width: 140px;
+    height: 30px;
+    background-color: aqua;
+    border: solid aqua;
+}
+
+.bigges {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.header {
+    width: 100%;
+    background-color: rgb(151, 147, 147);
+    height: 60px;
+}
+
+.stickiy_footer {
+    height: 60px;
+    background-color: rgb(197, 197, 197);
+}
+
+.big {
+    height: 500px;
+    display: flex;
+    gap: 4px;
+}
+
+.thri {
+    gap: 2px;
+    width: 219%;
+    display: flex;
+}
+
+.nav {
+    width: 20%;
+    background-color: orange;
+}
+
+.usl {
+    height: 200px;
+    width: 33%;
+    background-color: aqua;
+}
+
+.usc {
+    height: 200px;
+    width: 33%;
+    background-color: blue;
+}
+
+.usr {
+    height: 200px;
+    width: 33%;
+    background-color: brown;
+}
+
+.svoboda_1 {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 219%;
+    height: 29.5%;
+    background-color: darkolivegreen;
+}
+
+.svoboda_2 {
+    background-color: coral;
+    width: 219%;
+    height: 29%;
+}

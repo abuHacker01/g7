@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.big_1 {
+    display: grid;
+    gap: 3%;
+}
+
+.big_1__item1 {
+    display: grid;
+    grid-template-rows: repeat(4, 12vh);
+}
+
+.big_1__item2 {
+    display: grid;
+    grid-template-rows: repeat(4, 12vh);
+}
+
+.big_1__1 {
+    background-color: red;
+    grid-column: 1/2;
+}
+
+.big_1__2 {
+    background-color: rgb(255, 123, 0);
+    grid-column: 2/3;
+}
+
+.big_1__3 {
+    background-color: orange;
+    grid-column: 3/4;
+}
+
+.big_1__4 {
+    background-color: green;
+    grid-column: 1/2;
+}
+
+.big_1__5 {
+    background-color: rgb(0, 160, 40);
+    grid-column: 2/3;
+}
+
+.big_1__6 {
+    background-color: greenyellow;
+    grid-column: 3/4;
+}
+
+.big {
+    display: grid;
+    display: inline;
+}
+
+.biggest_1 {
+    height: 964px;
+    width: 69%;
+    grid-column: 1/2;
+}
+
+.biggest_2 {
+    height: 955px;
+    width: 29%;
+    float: right;
+    margin-top: -964px;
+    background-color: orange;
+}
+
+.biggest_1__1 {
+    width: 100%;
+    height: 47%;
+    background-color: red;
+}
+
+.biggest_1__2 {
+    height: 50%;
+    width: 100%;
+    display: grid;
+    margin-top: 3%;
+    gap: 3%;
+}
+
+.biggest_1__1___1 {
+    background-color: green;
+    height: 100%;
+    grid-column: 1/2;
+    width: 100%;
+}
+
+.biggest_1__1___2 {
+    grid-column: 2/3;
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+.big_3 {
+    display: grid;
+    gap: 3px;
+    width: 100%;
+    height: 963px;
+}
+
+.big_3__biggest_1 {
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+}
+
+.big_3__biggest_2 {
+    width: 100%;
+    display: flex;
+    height: 100%;
+}
+
+.big_3__biggest_3 {
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+.big_3__biggest_2__1 {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}
+
+.big_3__biggest_2__2 {
+    display: grid;
+    height: 100%;
+    width: 70%;
+    background-color: red;
+}
+
+.big_4_bigges_1__f {
+    height: 30%;
+    width: 50%;
+    background-color: orange;
+}
+
+.big_4_bigges_1__s {
+    height: 30%;
+    width: 50%;
+    background-color: red;
+}
+
+.big_3__biggest_2__1 {
+    width: 30%;
+    height: 100%;
+}
+
+.big_4_bigges_2 {
+    height: 30%;
+}
